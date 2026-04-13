@@ -53,6 +53,6 @@ java -jar QTouchclient.jar
 - Database Persistence  
 - Event-Driven Programming  
 ## Screenshot
-![Game UI](imgs/A.png)
+![Game UI](img/A.png)
 ## Author
 Heta Patel
