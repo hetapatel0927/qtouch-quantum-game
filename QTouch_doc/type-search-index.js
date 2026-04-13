@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"qtouch","l":"QTouchController"},{"p":"qtouch","l":"QTouchException"},{"p":"qtouch","l":"QTouchModel"},{"p":"qtouch","l":"QTouchMVC"},{"p":"qtouch","l":"QTouchSplash"},{"p":"qtouch","l":"QTouchView"}];updateSearchResults();
